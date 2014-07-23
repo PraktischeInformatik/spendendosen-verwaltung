@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author Etibar
- *
- */
-package applicationLogicAccess;
